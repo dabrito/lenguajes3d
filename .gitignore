@@ -1,0 +1,81 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Avoid uploading sensitive or unnecessary files
+UserSettings/
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+*.swp
+*.swo
+Thumbs.db
+
+# ===================== #
+# Visual Studio / Mono #
+# ===================== #
+.vscode/
+.vs/
+*.csproj
+*.sln
+*.suo
+*.unityproj
+*.pidb
+*.user
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+# =============== #
+# Unity Packages #
+# =============== #
+*.unitypackage
+
+# =============== #
+# Auto-generated #
+# =============== #
+*.generated.cs
+*.bak
+
+# ==================== #
+# Build artifacts #
+# ==================== #
+*.apk
+*.aab
+*.exe
+*.app
+*.msi
+*.dll
+*.ilk
+*.lib
+*.ncb
+*.obj
+*.pdb
+*.idb
+*.class
+*.jar
+*.war
+*.swf
+*.xap
+*.ipa
+*.dSYM/
+*.tmp
+*.log
+*.tlog
+
+# ========================== #
+# Additional Configurations #
+# ========================== #
+# Uncomment these lines if you are using JetBrains Rider
+# .idea/
+# *.sublime-workspace
